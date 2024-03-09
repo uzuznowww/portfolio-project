@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+/dev-*/node_modules/
+/dev-*/build/
