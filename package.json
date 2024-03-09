@@ -2,7 +2,11 @@
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
+<<<<<<< Updated upstream
   "homepage": "https://uzuznowww.github.io/portfolio-project",
+=======
+  "homepage": "https://uzuznowww.github.io/uzunowww/",
+>>>>>>> Stashed changes
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -17,8 +21,12 @@
     "@fontsource/outfit": "^5.0.12",
     "@fontsource/roboto": "^5.0.12",
     "react": "^18.2.0",
+<<<<<<< Updated upstream
     "react-dom": "^18.2.0",
     "react-scripts": "^3.0.1"
+=======
+    "react-dom": "^18.2.0"
+>>>>>>> Stashed changes
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
