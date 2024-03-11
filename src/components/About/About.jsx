@@ -23,7 +23,7 @@ export const About = () => {
               </div>
               </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>JavaScript-Fundamentals</h3>
               <p>
