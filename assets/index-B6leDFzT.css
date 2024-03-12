@@ -52,6 +52,7 @@
     src: url(heroImage-C6jTzdxI.png);
     background-size: cover;
     width: 30%;
+    display: flex;
     z-index: 1;
     animation-name: _floating_1e9kw_1;
     animation-duration: 3s;
