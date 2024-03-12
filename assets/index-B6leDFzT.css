@@ -240,6 +240,7 @@
 }
 
 ._aboutItem_1uxrw_63 h3 {
+    background-image: (url(assets/cursorIcon-KX7f2O15.png));
     font-size: 25px;
     font-weight: 600
 }
@@ -267,8 +268,7 @@
         margin-top: 29px
     }
 
-    ._aboutItem_1uxrw_63 {
-        background-image: (url(assets/cursorIcon-KX7f2O15.png));
+    ._aboutItem_1uxrw_63 { 
         padding-left: 0;
         padding-right: 0
     }
