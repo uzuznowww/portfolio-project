@@ -50,8 +50,8 @@
 
 ._heroImg_1e9kw_103 {
     background-image: url(./heroImage-C6jTzdxI.png);
-    width: 100%;
-    display: flex;
+    width: 270px;
+    height: 360px;
     z-index: 1;
     animation-name: _floating_1e9kw_1;
     animation-duration: 3s;
