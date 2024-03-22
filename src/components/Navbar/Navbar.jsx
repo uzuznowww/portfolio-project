@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-import styles from './Navbar.module.css'
-import { closeIcon, menuIcon } from '../../../assets/nav'
+import { closeIcon, menuIcon } from "../../../assets/nav";
+import styles from './Navbar.module.css';
 
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -16,8 +16,8 @@ export const Navbar = () => {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? getImageUrl(closeIcon)
-              : getImageUrl(menuIcon)
+              ? closeIcon
+              : menuIcon
           }
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
