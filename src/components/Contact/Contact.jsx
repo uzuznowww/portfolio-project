@@ -1,5 +1,5 @@
 import React from "react";
-import { emailIcon, githubIcon, linkedinIcon} from "../../../assets/about";
+import { emailIcon, githubIcon, linkedinIcon} from "../../../assets/contact";
 import styles from './Contact.module.css';
 
 export const Contact = () => {
