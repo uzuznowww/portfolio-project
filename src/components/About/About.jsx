@@ -18,7 +18,7 @@ export const About = () => {
               <div className={styles.aboutItemText}>
                 <h3>JavaScript-Basic</h3>
                 <p>
-                 <a href="https://softuni.bg/certificates/details/151145/d41587fc">Certifacate</a> 
+                 <a href="https://softuni.bg/certificates/details/151145/d41587fc">Certificate</a> 
                 </p>
               </div>
               </li>
@@ -27,7 +27,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>JavaScript-Fundamentals</h3>
               <p>
-                <a href="https://softuni.bg/Certificates/Details/169172/0ac218e2">Certifacate</a>
+                <a href="https://softuni.bg/Certificates/Details/169172/0ac218e2">Certificate</a>
               </p>
             </div>
           </li>
