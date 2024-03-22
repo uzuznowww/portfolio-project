@@ -1,5 +1,6 @@
 import React from "react";
-import { aboutImage, cursorIcon } from "../../../assets/about";
+import aboutImage from "../../../assets/about/aboutImage.png";
+import cursorIcon from "../../../assets/about/cursorIcon.png";
 import styles from './About.module.css';
 
 export const About = () => {
@@ -9,12 +10,11 @@ export const About = () => {
         <div className={styles.content}>
           <img
             src={aboutImage}
-            alt="Me sitting with a laptop"
             className={styles.aboutImage}
           />
           <ul className={styles.aboutItems}>
             <li className={styles.aboutItem}>
-              <img src={cursorIcon} alt="Cursor icon" />
+              <img src={cursorIcon} />
               <div className={styles.aboutItemText}>
                 <h3>JavaScript-Basic</h3>
                 <p>
@@ -23,7 +23,7 @@ export const About = () => {
               </div>
               </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={cursorIcon} />
             <div className={styles.aboutItemText}>
               <h3>JavaScript-Fundamentals</h3>
               <p>

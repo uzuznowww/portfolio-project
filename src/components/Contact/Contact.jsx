@@ -1,6 +1,8 @@
 import React from "react";
 
-import { emailIcon, githubIcon, linkedinIcon} from "../../../assets/contact";
+import emailIcon from "../../../assets/contact/emailIcon.png";
+import githubIcon from "../../../assets/contact/githubIcon.png";
+import linkedinIcon from "../../../assets/contact/linkedinIcon.png";
 import styles from "./Contact.module.css";
 
 export const Contact = () => {

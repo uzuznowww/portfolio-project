@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
-import { closeIcon, menuIcon } from "../../../assets/nav";
+import menuIcon from "../../../assets/nav/menuIcon.png";
+import closeIcon from "../../../assets/nav/closeIcon.png";
 import styles from './Navbar.module.css';
 
 export const Navbar = () => {
